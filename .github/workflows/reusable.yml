@@ -5,7 +5,7 @@ on:
     artifact-name: 
         description: name of the artifact
         required: false
-        default: dist
+        default: dist-files
         type: string
 
 jobs:
